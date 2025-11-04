@@ -37,7 +37,7 @@ Implementación de transiciones y efectos visuales en toda la aplicación para m
 **Capturas:**
 
 **Antes:**
-![Animaciones Antes](public/img/mejora1-antes.jpg)
+![Animaciones Antes](public/img/mejora1-antes.jpeg)
 *Elementos estáticos sin transiciones*
 
 **Después:**
