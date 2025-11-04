@@ -41,7 +41,7 @@ Implementación de transiciones y efectos visuales en toda la aplicación para m
 *Elementos estáticos sin transiciones*
 
 **Después:**
-![Animaciones Después](ruta/a/captura-animaciones-despues.png)
+![Animaciones Después](public/img/mejora1-despues.jpeg)
 *Animaciones suaves con hover effects y transiciones*
 
 ---
@@ -64,11 +64,11 @@ Adventure, Platformer, RPG, Action-Adventure, First-Person Shooter, Action RPG, 
 **Capturas:**
 
 **Antes:**
-![Filtros Antes](ruta/a/captura-filtros-antes.png)
+![Filtros Antes](public/img/mejora2-antes.jpeg)
 *Solo búsqueda básica por texto*
 
 **Después:**
-![Filtros Después](ruta/a/captura-filtros-despues.png)
+![Filtros Después](public/img/mejora2-despues.jpeg)
 *Filtros por género con botones interactivos + contador de resultados*
 
 ---
@@ -96,11 +96,11 @@ Visualización profesional de habilidades mediante barras de progreso animadas e
 **Capturas:**
 
 **Antes:**
-![Habilidades Antes](ruta/a/captura-habilidades-antes.png)
+![Habilidades Antes](public/img/mejora3-antes.jpeg)
 *Lista simple de habilidades sin porcentajes*
 
 **Después:**
-![Habilidades Después](ruta/a/captura-habilidades-despues.png)
+![Habilidades Después](public/img/mejora3-despues.jpeg)
 *Barras de progreso animadas con porcentajes y colores según nivel*
 
 ---
@@ -129,11 +129,11 @@ Iconos de redes sociales interactivos en los perfiles de cada integrante.
 **Capturas:**
 
 **Antes:**
-![Redes Antes](ruta/a/captura-redes-antes.png)
+![Redes Antes](public/img/mejora4-antes.jpeg)
 *Sin enlaces a redes sociales*
 
 **Después:**
-![Redes Después](ruta/a/captura-redes-despues.png)
+![Redes Después](public/img/mejora4-despues.jpeg)
 *Botones animados con iconos de GitHub, LinkedIn y Email*
 
 ---
@@ -169,11 +169,11 @@ Página completa dedicada a mostrar proyectos del equipo con carrusel interactiv
 **Capturas:**
 
 **Antes:**
-![Carrusel Antes](ruta/a/captura-carrusel-antes.png)
+![Carrusel Antes](public/img/mejora5-antes.jpeg)
 *No existía sección de proyectos*
 
 **Después:**
-![Carrusel Después](ruta/a/captura-carrusel-despues.png)
+![Carrusel Después](public/img/mejora5-despues.jpeg)
 *Página completa con carrusel interactivo y grid de miniaturas*
 
 ---
