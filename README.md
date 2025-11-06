@@ -380,7 +380,7 @@ Componente controlado con useState para navegación. Imágenes de Unsplash para 
 | Habilidades | Lista simple | Barras animadas |
 | Redes Sociales | No | Sí (3 por perfil) |
 | Carrusel | No | Sí (5 proyectos) |
-| Líneas CSS | ~500 | ~1200 |
+| Líneas CSS | ~455 | ~2660 |
 
 ## Próximas Mejoras (Futuro)
 
