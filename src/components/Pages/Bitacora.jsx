@@ -272,12 +272,8 @@ export default function Bitacora() {
               inicialmente tenían fondo oscuro, pero lo cambiamos para coherencia con el diseño global.
             </p>
             <p>
-              <strong>Testing:</strong> Probamos en Chrome, Firefox, Safari y dispositivos móviles reales. 
+              <strong>Testing:</strong> Probamos en Chrome, Firefox y dispositivos móviles. 
               Usamos DevTools para simular diferentes viewports.
-            </p>
-            <p>
-              <strong>Git workflow:</strong> Branch por mejora (feature/filters, feature/carousel) con 
-              merge a main después de revisión. Commits descriptivos siguiendo convención "tipo: descripción".
             </p>
           </div>
 
@@ -341,4 +337,5 @@ export default function Bitacora() {
       </div>
     </div>
   )
+
 }
